@@ -1,1 +1,9 @@
-Hi Please start the server 
+
+Hi Please follow the steps start the server 
+
+#npm init -y 
+#npm i express jsonwebtoken dotenv
+#npm i --save-dev nodemon
+
+#type npm run devStart to run the server
+#     npm run devStartAut to run the Auth
